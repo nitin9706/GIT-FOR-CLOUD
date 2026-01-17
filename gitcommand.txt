@@ -7,3 +7,9 @@ git restore <filename> : restore the deleted files
 git remote -v
  git remote set-url origin
  git clone <clone link>
+
+
+
+
+
+this is written from github website not from terminal
