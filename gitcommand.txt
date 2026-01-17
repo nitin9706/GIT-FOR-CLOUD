@@ -1,0 +1,6 @@
+git init : this is for starting an empty git projects
+git status : this is for getting git status like can see master branch from that which file are untracked or something like that
+git add <filename> : this add the file to the stage categories you can track it or get back to untracked
+git rm --cache <filename> : restore the file to untracked
+git commit -m "message" <filename> : this will make the staged file to tracked file
+git restore <filename> : restore the deleted files
