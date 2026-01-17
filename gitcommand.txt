@@ -4,3 +4,6 @@ git add <filename> : this add the file to the stage categories you can track it 
 git rm --cache <filename> : restore the file to untracked
 git commit -m "message" <filename> : this will make the staged file to tracked file
 git restore <filename> : restore the deleted files
+git remote -v
+ git remote set-url origin
+ git clone <clone link>
